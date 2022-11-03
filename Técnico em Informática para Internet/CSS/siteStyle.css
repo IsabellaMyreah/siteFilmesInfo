@@ -1,0 +1,176 @@
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: black;
+    width: 1334px;
+    align-items: center;
+}
+
+.indice{
+    background-color: rgb(24, 24, 24);
+    padding: 1.5rem;
+    align-items: right;
+    font-size: larger;
+}
+
+.indice-item1{
+    color: #fff;
+    padding-left: 21px;
+    padding-right: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: left;
+
+}
+
+.indice-item2{
+    color: rgb(239, 132, 255);
+    padding: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.indice-item3{
+    color: rgb(136, 197, 255);
+    padding: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.indice-item4{
+    color: rgb(136, 255, 189);
+    padding: 3rem;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+.indice-item5{
+    color: rgb(255, 248, 154);
+    padding-left: 3rem;
+    padding-right: 21px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+main{
+    color: white;
+   
+}
+
+.escolha{
+    align-items: center;
+}
+
+.escolha-item1{
+    padding: 1.8rem;
+}
+
+.escolha-item2{
+    padding: 1.8rem;
+}
+
+.escolha-item3{
+    padding: 1.8rem;
+}
+
+.escolha-item4{
+    padding: 1.5rem;
+}
+
+.footer{
+    background-color: rgb(24, 24, 24);
+    color: white;
+    padding: .8px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.historia-SW{
+    color: rgb(239, 132, 255);
+
+}
+
+.historia-inicio-SW{
+    color: white;
+    padding-left: 14rem;
+    padding-right: 14rem;
+
+}
+
+.historia-paragrafo{
+    color: white;
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+.pers{
+    padding-left: 5rem;
+}
+.pers-bio{
+    color: white;
+    padding-left: 1rem;
+    padding-right: 17rem;
+}
+
+.pers-name{
+    padding-left: 1rem;
+    color: white;
+}
+
+.Valores-SW{
+    text-align: center;
+    color: rgb(239, 132, 255);
+    
+}
+
+.valores-paragrafo{
+    color: white;
+    text-align: center;
+}
+
+.esc-FIL{
+    color: white;
+}
+
+.Valores-HTTYD{
+    color: rgb(136, 197, 255);
+}
+
+.historia-HTTYD{
+    color: rgb(136, 197, 255);
+}
+
+.pers-HTTYD{
+    color: rgb(136, 197, 255);
+}
+
+.Valores-NARNIA{
+    color: rgb(136, 255, 189);
+}
+
+.historia-NARNIA{
+    color: rgb(136, 255, 189);
+}
+
+.pers-NARNIA{
+    color: rgb(136, 255, 189);
+}
+
+.Valores-LOTR{
+    color: rgb(255, 248, 154);
+}
+
+.historia-LOTR{
+    color: rgb(255, 248, 154);
+}
+
+.pers-LOTR{
+    color: rgb(255, 248, 154);
+}
+
